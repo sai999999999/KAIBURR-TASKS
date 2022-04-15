@@ -1,0 +1,1 @@
+//Name:Sai Madhav Task6 Working Proof of data science model attached with screenshots is provided in above file task6 readme.docx Trained the model with provided with dataset using neural networks// i have used convolutional neural networks to train the model so the model analyses the dataset and predicts the most activity done by human in the dataset using confusion matrix
